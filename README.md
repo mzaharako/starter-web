@@ -8,3 +8,5 @@ test 2
 Sample website with plenty of files for demos
 
 ## Deployment
+
+##Copyright
